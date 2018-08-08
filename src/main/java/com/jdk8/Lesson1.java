@@ -44,6 +44,7 @@ public class Lesson1 {
         List<String> list = Arrays.asList(
                 "alpha", "bravo", "charlie", "delta", "echo", "foxtrot");
 
+
         StringBuilder b = new StringBuilder();
         list.forEach(s-> b.append(s.substring(0,1)));
 
