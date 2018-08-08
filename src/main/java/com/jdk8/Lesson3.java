@@ -33,7 +33,7 @@ public class Lesson3 {
         long startTime = System.nanoTime();
         T result = supplier.get();
         long endTime = System.nanoTime();
-        System.out.printf("%s took %dms%n",
+        System.out.printf("%s toooook %dms%n",
 
                 label, (endTime - startTime + 500_000L) / 1_000_000L);
         return result;
