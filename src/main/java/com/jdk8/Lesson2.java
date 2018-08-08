@@ -172,7 +172,7 @@ public class Lesson2 {
     }
 
     /**
-     * Main entry point for application
+     * Main entry point for application 
      *
      * @param args the command line arguments
      * @throws IOException If file access does not work
