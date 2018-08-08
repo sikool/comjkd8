@@ -20,7 +20,7 @@ public class Lesson1 {
         exercise1();
         System.out.println("Running exercise 2 solution...");
         exercise2();
-        System.out.println("Running exercise 3 solution...");
+        System.out.println("Running exercise 3  solution...");
         exercise3();
         System.out.println("Running exercise 4 solution...");
         exercise4();
