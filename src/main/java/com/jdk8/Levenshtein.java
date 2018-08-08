@@ -44,6 +44,7 @@ public class Levenshtein {
      */
     static int lev(String stringA, String stringB) {
         Objects.requireNonNull(stringA);
+        
         Objects.requireNonNull(stringB);
 
         // handle degenerate cases
