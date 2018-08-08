@@ -72,6 +72,7 @@ public class Lesson2 {
      * odd length
      */
     private void exercise2() {
+        
         List<String> list = Arrays.asList(
                 "The", "Quick", "BROWN", "Fox", "Jumped", "Over", "The", "LAZY", "DOG");
 
